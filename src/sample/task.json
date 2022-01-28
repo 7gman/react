@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "Task 1",
+        "description": "casa",
+        "done": [true, "True"]
+    },
+    {
+        "id": "2",
+        "name": "Task 2",
+        "description": "universidad",
+        "done": [false, "False"]
+    },
+    {
+        "id": "3",
+        "name": "Task 3",
+        "description": "trabajo",
+        "done": [true, "True"]
+    }
+]
