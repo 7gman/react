@@ -6,7 +6,7 @@ class Task extends Component {
     render(){
 
         const {task} = this.props;
-        const taskcss = {border: '1px solid blue'};
+        const taskcss = {border: '1px solid green'};
 
         return(
             <div className="taskClass" style={taskcss} key={task.id}>
